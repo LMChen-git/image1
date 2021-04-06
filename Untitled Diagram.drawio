@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-06T04:03:43.036Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="MpjyQqOoFJBouDoJ84Pv" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-06T04:39:39.133Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="XSa3f6PVf8ZOmK0UHLk5" version="14.5.7" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="782" dy="503" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1303" dy="838" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="288" y="80" width="200" height="917" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-6" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-5" vertex="1">
-          <mxGeometry x="95" y="85" width="10" height="190" as="geometry" />
+          <mxGeometry x="95" y="85" width="10" height="254" as="geometry" />
         </mxCell>
         <mxCell id="xPqvD2hYf9ggYyajVw-1-14" value="" style="endArrow=classic;html=1;edgeStyle=elbowEdgeStyle;jumpStyle=none;rounded=0;" parent="3nuBFxr9cyL0pnOWT2aG-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -34,9 +34,6 @@
             <mxPoint x="96" y="275" as="sourcePoint" />
             <mxPoint x="-64" y="275" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="xPqvD2hYf9ggYyajVw-1-19" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-5" vertex="1">
-          <mxGeometry x="95" y="340" width="10" height="16" as="geometry" />
         </mxCell>
         <mxCell id="xPqvD2hYf9ggYyajVw-1-26" value="校验通过" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#007FFF;" parent="3nuBFxr9cyL0pnOWT2aG-5" vertex="1">
           <mxGeometry x="95" y="300" width="75" height="20" as="geometry" />
@@ -88,7 +85,7 @@
         <mxCell id="xPqvD2hYf9ggYyajVw-1-32" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="xPqvD2hYf9ggYyajVw-1-31" vertex="1">
           <mxGeometry x="50" y="430" width="10" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="xPqvD2hYf9ggYyajVw-1-33" value="5，传递账号、密码" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" parent="1" edge="1">
+        <mxCell id="xPqvD2hYf9ggYyajVw-1-33" value="5，查询用户登录信息" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="860" y="510" as="sourcePoint" />
             <mxPoint x="1060" y="510" as="targetPoint" />
