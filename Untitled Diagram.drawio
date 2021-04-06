@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-06T03:17:18.082Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="GfiJl8VSWP_PLqbtuQHa" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-06T04:03:43.036Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="MpjyQqOoFJBouDoJ84Pv" version="14.5.7" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="2607" dy="1677" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="503" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,7 +20,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xPqvD2hYf9ggYyajVw-1-16" value="&lt;font color=&quot;#3399ff&quot;&gt;替代&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;strokeColor=#66B2FF;" parent="3nuBFxr9cyL0pnOWT2aG-5" vertex="1">
+        <mxCell id="xPqvD2hYf9ggYyajVw-1-16" value="&lt;font color=&quot;#3399ff&quot;&gt;Alt&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;strokeColor=#66B2FF;" parent="3nuBFxr9cyL0pnOWT2aG-5" vertex="1">
           <mxGeometry x="-120" y="196" width="310" height="164" as="geometry" />
         </mxCell>
         <mxCell id="xPqvD2hYf9ggYyajVw-1-18" value="" style="endArrow=none;dashed=1;dashPattern=1 3;strokeWidth=2;exitX=0.006;exitY=0.71;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.005;entryY=0.614;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#007FFF;" parent="3nuBFxr9cyL0pnOWT2aG-5" target="xPqvD2hYf9ggYyajVw-1-16" edge="1">
@@ -116,7 +116,7 @@
         <mxCell id="xPqvD2hYf9ggYyajVw-1-38" value="6.1，写入Session" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="660" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xPqvD2hYf9ggYyajVw-1-39" value="&lt;font color=&quot;#3399ff&quot;&gt;替代&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;strokeColor=#66B2FF;" parent="1" vertex="1">
+        <mxCell id="xPqvD2hYf9ggYyajVw-1-39" value="&lt;span style=&quot;color: rgb(51 , 153 , 255)&quot;&gt;Alt&lt;/span&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;strokeColor=#66B2FF;" parent="1" vertex="1">
           <mxGeometry x="172.5" y="630" width="397.5" height="190" as="geometry" />
         </mxCell>
         <mxCell id="xPqvD2hYf9ggYyajVw-1-41" value="登录失败" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#007FFF;" parent="1" vertex="1">
